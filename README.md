@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter Client*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter Client** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/lhhO7ZI.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
